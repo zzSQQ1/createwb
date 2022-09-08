@@ -1,0 +1,22 @@
+<html>
+  <head>
+      <title>  HANH TINH KY NANG THAI PHIEN </title>
+      <style>
+        body{
+          background-color: white;
+          text-align: center;
+          padding: 200px;
+          }
+          h1{
+            font-size: 60px;
+            color: black;
+            color: #eeee33;
+            }
+      </style>
+  </head>
+  <body>
+    <h1>  HANH TINH KY NANG THAI PHIEN </h1>
+   </body>
+ </html>
+          
+          
